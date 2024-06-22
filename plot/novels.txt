@@ -1,0 +1,1586 @@
+start
+_
+novel
+images/desktop.png
+Обучение
+Для перемемотки сцен используйте мышку или стрелочки.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Это был самый обычный день.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Я очень люблю играть в компьютерные игры.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Сегодня я ломал голову, во что бы поиграть.
+255 255 255
+False
+_
+novel
+images/browser.png
+
+Смотрел в интернете различные игры
+255 255 255
+False
+_
+novel
+images/browser.png
+
+и наконец нашел!
+255 255 255
+False
+_
+novel
+images/browser.png
+
+Недавно вышла очень интересная игра.
+255 255 255
+False
+_
+novel
+images/browser.png
+
+Прекрасно!
+255 255 255
+False
+_
+novel
+images/browser.png
+
+Не терпиться уже скачать ее
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+**спустя несколько минут**
+255 255 255
+False
+_
+darkness
+images/desktop.png
+_
+novel
+images/desktop.png
+
+Ого, довольно быстро скачалась.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Ну все сейчас поиграю.
+255 255 255
+False
+_
+novel
+images/registration.png
+
+Так что это?
+255 255 255
+False
+_
+novel
+images/registration.png
+
+Зарегистрируйтесь.
+255 255 255
+False
+_
+novel
+images/registration.png
+
+Ну хорошо.
+255 255 255
+False
+_
+novel
+images/registration.png
+
+Так введите имя.
+255 255 255
+False
+_
+novel
+images/registration.png
+
+Ну раз в жизни меня зовут Егор, то в игре я буду им же.
+255 255 255
+False
+_
+darkness
+images/registration.png
+_
+novel
+images/login.png
+
+Ну надеюсь на этом все.
+255 255 255
+False
+_
+novel
+images/login.png
+
+Введите пароль.
+255 255 255
+False
+_
+novel
+images/login.png
+
+Да дайте уже наконец поиграть!
+255 255 255
+False
+_
+novel
+images/login.png
+
+Не буду париться пусть будет 123456789.
+255 255 255
+False
+_
+darkness
+images/login.png
+_
+novel
+images/pwd.png
+
+Ура!
+255 255 255
+False
+_
+novel
+images/pwd.png
+
+Я прошел все эти круги ада с регистрацией!
+255 255 255
+False
+_
+novel
+images/pwd.png
+
+Все теперь можно и поиграть.
+255 255 255
+False
+_
+darkness
+images/pwd.png
+_
+novel
+images/game.png
+
+ЕЕЕЕЕ я снова выиграл!
+255 255 255
+False
+_
+novel
+images/game.png
+
+Стоп, что такое?
+255 255 255
+False
+_
+novel
+images/game.png
+
+Почему игра зависла?
+255 255 255
+False
+_
+darkness
+images/game.png
+_
+novel
+images/rub.png
+
+Что это?
+255 255 255
+False
+_
+novel
+images/rub.png
+
+Что случилось с игрой?
+255 255 255
+False
+_
+novel
+images/rub.png
+
+Почему открылось что-то непонятное?
+255 255 255
+False
+_
+novel
+images/rub.png
+
+Какие то нолики, единички.
+255 255 255
+False
+_
+novel
+images/rub.png
+
+Стоп это что мои данные от аккаунта?
+255 255 255
+False
+_
+novel
+images/rub.png
+
+Надо их срочно забрать!
+255 255 255
+False
+_
+novel
+images/desktop.png
+Обучение
+Для того, чтобы забрать данные используйте стрелочки.
+255 255 255
+False
+_
+rub
+_
+novel
+images/game.png
+
+Что это сейчас было, кто-то забрал мои данные?
+255 255 255
+False
+_
+novel
+images/ban.png
+
+ЧТОООООО????????
+255 255 255
+False
+_
+novel
+images/ban.png
+
+ВЫ ЗАБАНЕНЫ?????
+255 255 255
+False
+_
+novel
+images/ban.png
+
+Так, спокойно сейчас позову своего старшего брата.
+255 255 255
+False
+_
+novel
+images/ban.png
+
+Он же обычно помогает маме когда у нее телефон зависает.
+255 255 255
+False
+_
+novel
+images/ban.png
+
+Надеюсь, что и мне поможет.
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+Егор
+Ваня, помоги пожалуйста!
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Ваня
+Что случилось у тебя?
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Тут такое произошло!
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Егор
+Я просто играл в новую игру.
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Егор
+Всех побеждал как всегда.
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Егор
+И в какой-то момент игра зависла.
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Егор
+Открылось какое то странное окно с моими данными от аккаунта.
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Егор
+И кто-то забрал их..
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Егор
+А потом снова открылась игра, но уже было написано, что я забанен.
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Ваня
+Хмммм.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Боюсь твой аккаунт взломали.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Как?
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Ваня
+Злоумышленники подобрали твой логин и пароль.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Таким образом получили доступ к аккаунту
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Но как они это сделали?
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Ваня
+Сейчас очень много способов взомать пользователей.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Ты же безопасный пароль поставил?
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Конечно, никто бы не догадался.
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Ваня
+И какой же?
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+123456789
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Егор
+Вот как много в нем цифр, как такой сложный пароль можно взломать?
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Ваня
+Довольно просто.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Хоть в нем и много цифр, но это очень простая комбинация.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Не думаешь?
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Да пожалуй ты прав.
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Егор
+А какой пароль тогда безопасный?
+255 255 255
+images/hero.png
+700 420
+80 120
+novel
+_
+novel
+images/hero_room.jpeg
+Ваня
+Тот, который содержит в себе различные буквы, цифры и спецсимволы,
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+а так же обычно пароли должны быть длинее 8 символом.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Но если ты еще и будешь использовать и маленькие, и большие буквы.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Тогда этот пароль будет очень тяжело подобрать.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Спасибо тебе большое!
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Теперь буду подходить к регистрации более ответственно.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Молодец, что понял!
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+А как мне теперь вернуть свой аккаунт?
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Я там так много прошел уже, не хочу все потерять.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Боюсь его уже не вернуть, и тебе придется создать новый.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Жаль, спасибо тебе за помощь.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Пожалуйста!
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Пойду теперь уроки доделывать.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+darkness
+images/hero_room.jpeg
+_
+novel
+images/desktop.png
+
+Блин, мне что теперь все заново начинать?
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Может есть какой нибудь способ получить аккаунт, где уже все пройдено.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Я помню, мне друг рассказывал, что он купил один аккаунт в игре.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Может мне тоже купить.
+255 255 255
+False
+_
+darkness
+images/desktop.png
+_
+novel
+images/buy.png
+
+Так вот первый сайт "Аккаунты для онлайн игр" осталось теперь найти свою.
+255 255 255
+False
+_
+novel
+images/buy.png
+
+Странный сайт конечно, но ничего страшного я думаю.
+255 255 255
+False
+_
+novel
+images/buy.png
+
+Вот нашел.
+255 255 255
+False
+_
+novel
+images/buy.png
+
+Ого 500 рублей, что так дорого?
+255 255 255
+False
+_
+novel
+images/buy.png
+
+Это же просто аккаунт для игры.
+255 255 255
+False
+_
+novel
+images/buy.png
+
+Ладно, у меня как раз есть 1000 рублей оставленных с обедов.
+255 255 255
+False
+_
+novel
+images/buy.png
+
+Так введите данные карты.
+255 255 255
+False
+_
+novel
+images/buy.png
+
+Хорошо.
+255 255 255
+False
+_
+novel
+images/buy.png
+
+Покупка прошла успешно.
+255 255 255
+False
+_
+novel
+images/buy.png
+
+Отлично так вот мой новый логин и пароль.
+255 255 255
+False
+_
+novel
+images/buy_log.png
+
+Ого какой пароль этот точно не взломают.
+255 255 255
+False
+_
+novel
+images/buy_log.png
+
+Ну все уже так хочется поиграть.
+255 255 255
+False
+_
+darkness
+images/buy_log.png
+_
+novel
+images/new.png
+
+Почему?
+255 255 255
+False
+_
+novel
+images/new.png
+
+Может я как-нибудь неправильно ввожу?
+255 255 255
+False
+_
+novel
+images/new.png
+
+Нет, все правильно.
+255 255 255
+False
+_
+novel
+images/new.png
+
+И когда она пройдет, тогда заработает.
+255 255 255
+False
+_
+novel
+images/new.png
+
+Посмотрю в телефоне, что там с оплатой.
+255 255 255
+False
+_
+darkness
+images/new.png
+_
+novel
+images/new.png
+
+А где все мои деньги?
+255 255 255
+False
+_
+novel
+images/new.png
+
+Да что ж за день сегодня такой...
+255 255 255
+False
+_
+novel
+images/new.png
+
+И аккаунт взломали и деньги украли.
+255 255 255
+False
+_
+novel
+images/new.png
+
+Надо спросить у Вани что делать.
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+Егор
+Ваня мне опять твоя помощь нужна!
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Что случилось?
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+У меня деньги украли.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Как такое произошло?
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Я захотел себе купить аккаунт, чтоб не проходить все заново.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Зашел на сайт.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Нашел аккаунт.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Купил его.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Мне выслали логин и пароль от него.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Я ввожу их, а мне пишет, что такого аккаунта не существует.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Я посмотрел там очень сложный пароль, его явно сложно взломать.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Подумал может оплата еще не прошла.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Открыл банк на телефоне, а у меня все мои деньги списали.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Ужас то какой!
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Запомни никогда не покупай ничего на странных сайтах.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Ты сейчас наткнулся на мошенников.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Они сейчас получили данные твоей карты и смогли списать с нее все деньги.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Могли бы хоть аккаунт дать!
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+А аккаунт тебе важнее денег?
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Нет, просто грусно.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Ни денег ни аккаунта теперь нет.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Понимаю, но зато будешь знать,
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+что покупать что-либо можно только на проверенных сайтах.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Давай объясню тебе, как отличать мошенников.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Хорошие магазины имеют четкую контактную информацию.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Имеют понятную политику возврата и возмещения средств.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Используют безопасное соединение HTTPS.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+А мошенники не предоставляют четкой контактной информации.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Предлагают ограниченные или подозрительные варианты оплаты.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Имеют непонятные политики возврата средств или вообще не имеют их.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Ну вот теперь я научился различать хороших продавцов и мошенников.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Спасибо тебе!
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Рад был помочь, если опять во что-нибудь вляпаешься зови.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Обязательно.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+darkness
+images/hero_room.jpeg
+_
+novel
+images/desktop.png
+
+Уже прошло полдня, а я так нормально и не поиграл.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Теперь за все мои страдания.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Мне точно полагается аккаунт с максимальной прокачкой.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Хммм, может скачать взломку где все уже есть.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Как по мне - гениальная идея.
+255 255 255
+False
+_
+darkness
+images/desktop.png
+_
+novel
+images/tor.png
+
+Вот нашел.
+255 255 255
+False
+_
+novel
+images/tor.png
+
+Взломанная версия со всеми очками.
+255 255 255
+False
+_
+novel
+images/tor.png
+
+То что мне нужно.
+255 255 255
+False
+_
+novel
+images/tor.png
+
+Скачать.
+255 255 255
+False
+_
+darkness
+images/tor.png
+_
+novel
+images/desktop.png
+
+Ну вот загрузка закончена.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Может теперь я смогу поиграть.
+255 255 255
+False
+_
+novel
+images/game.png
+
+Ура, запустилась, теперь оторвусь.
+255 255 255
+False
+_
+novel
+images/game.png
+
+Вот и все очки как раз есть.
+255 255 255
+False
+_
+novel
+images/game.png
+
+Блин, а что так зависать компьютер стал?
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Ойййй.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Игра вылетела что такое?
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+И компьютер стал медленно работать.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Так, ну стоит уже сразу звать брата.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+А то мало ли еще компьютер сломается.
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+Егор
+Я вновь куда то вляпался, помоги!
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Какой же интересный день.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Что на этот раз?
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+У меня компьютер стал медленно работать.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Не знаешь почему?
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+А что ты последний раз на нем делал?
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Да так, просто скачал взломку своей игры.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Похоже ты не только игру скачал, но еще и вирусов в придачу.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+И что теперь станет с компьютером, он сломается?
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Надеюсь что нет.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Никогда не скачивай что-либо с сомнительных сайтов.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+В этих файлах могут находиться вирусы.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+И ты можешь лишиться и своих данных, а может и компьютера.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+И что теперь делать?
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Запустим антивирус.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Пусть он все очистит.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+А мы посмотрим.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Обучение
+Нажимайте мышкой на вирус, чтобы удалить его.
+255 255 255
+False
+_
+darkness
+images/hero_room.jpeg
+_
+virus
+_
+novel
+images/hero_room.jpeg
+Егор
+Как же много вирусов я накачал вместе с игрой.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Больше не буду открывать сомнительные файлы.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Спасибо тебе, в который раз за помощь.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Я думаю все таки стоит самому создать новый аккаунт.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+А то мало ли еще с чем-то столкнусь.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Давай лучше не в твою игры поиграем, а в мою.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Ваня
+Как раз таки про безопасность в интернете.
+146 170 246
+images/brother.png
+100 500
+80 120
+_
+novel
+images/hero_room.jpeg
+Егор
+Давай а то я много всего не знаю.
+255 255 255
+images/hero.png
+700 420
+80 120
+_
+novel
+images/desktop.png
+Обучение
+Для передвижения используйте стрелочки.
+255 255 255
+False
+_
+novel
+images/desktop.png
+Обучение
+Чтобы прочитать вопрос подойдите к табличке.
+255 255 255
+False
+_
+darkness
+images/hero_room.jpeg
+_
+arcade
+_
+novel
+images/desktop.png
+
+Ура! Я прошел игру!
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Какой же все таки интересный сегодня день.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+И очень поучительный.
+255 255 255
+False
+_
+novel
+images/desktop.png
+
+Теперь я понял какие опасности может таить в себе интернет.
+255 255 255
+False
+_
+end
+_
